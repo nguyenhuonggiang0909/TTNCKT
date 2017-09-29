@@ -1,0 +1,2 @@
+# TTNCKT
+thuc hanh git
